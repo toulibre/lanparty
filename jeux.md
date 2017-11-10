@@ -6,6 +6,8 @@ Quelques jeux libres sont présentés à cette Lan Party.
 
 0 A.D. est un jeu vidéo de stratégie en temps réel développé et édité par Wildfire Games pour Windows, GNU/Linux et Mac OS.
 
+![O A.D. capture](https://framalibre.org/sites/default/files/styles/screenshot/public/0_A.D._screenshot.jpg?itok=QmvVV1in)
+
 type: jeu de stratégie temps réel
 site: https://play0ad.com/
 
