@@ -1,6 +1,10 @@
-# Jeux vidéo libres
+# Des jeux vidéo libres
+
+Quelques jeux libres sont présentés à cette Lan Party.
 
 ## 0AD
+
+0 A.D. est un jeu vidéo de stratégie en temps réel développé et édité par Wildfire Games pour Windows, GNU/Linux et Mac OS.
 
 type: jeu de stratégie temps réel
 site: https://play0ad.com/
@@ -63,6 +67,15 @@ Khaganat est un jeu MMORPG et sa communauté, Khanat est l'univers de ce jeu.
 type: MMORPG
 site: https://khaganat.net/
 
-## Crédits
+## GCompris
 
-Source des notices et captures : http://jeuxlibres.net/
+GCompris est un logiciel éducatif qui propose des activités variées aux enfants de 2 à 10 ans.
+
+type: jeu éducatif
+site: http://gcompris.net/
+
+## Crédits et ressources
+
+Source des notices : l'annuaire des jeux libres [jeuxlibres.net](http://jeuxlibres.net/)
+
+Retrouvez aussi les jeux sur l'annuaire des logiciels libres [framalibre.org](https://framalibre.org/annuaires/jeux)
