@@ -10,3 +10,7 @@ Sur ubuntu / debian :
       minetest gcompris fretsonfire
 
 Texte du dépliant pour les visiteurs dans [jeux.md](jeux.md)
+
+Pour le générer en odt :
+
+    pandoc jeux.md -o jeux.odt
