@@ -13,7 +13,11 @@ Quelques jeux libres sont présentés à cette Lan Party.
 
 ## Teeworlds
 
-Teeworlds est un jeu multijoueur d'action/arcade en 2 dimensions assez rapide. On pourrait grossièrement qualifier le type  jeu de "Wormux en temps réel".
+Teeworlds est un jeu multijoueur d'action/arcade en 2D cartoonesque assez rapide. On pourrait grossièrement qualifier le type  jeu de "Wormux en temps réel". Il est très simple à prendre en main en LAN ou via le net.
+
+Le joueur y incarne une petite créature ronde, le tee, qui utilise un grappin pour se déplacer. À l'aide de plusieurs armes différentes, le joueur doit parcourir les différentes cartes en équipe ou seul, pour voler le drapeau à ses adversaires, ou tous les tuer, selon le mode de jeu.
+
+Le jeu incorpore un éditeur de carte qui s’ouvre (et se ferme) avec Ctrl+Maj+E.
 
 ![Teeworlds capture](https://framalibre.org/sites/default/files/screenshot_jungle.png)
 
@@ -22,7 +26,7 @@ Teeworlds est un jeu multijoueur d'action/arcade en 2 dimensions assez rapide. O
 
 ## Hedgewars
 
-Clone de Worms, jeu 2D de combat armé en tour par tour par équipe.
+Clone de Worms, jeu de stratégie au tour par tour dans lequel plusieurs équipes de hérissons s'entretuent.
 
 * type: jeu de combat 2D tour à tour
 * site: http://www.hedgewars.org/
@@ -57,7 +61,7 @@ Le jeu a aussi un mode multijoueur via internet ou en local. [^framalibre]
 
 ## SuperTuxKart
 
-Jeu de course avec des Kart et des personnages venant de logiciels libres.
+SuperTuxKart est un jeu de course avec une variétés de modes, de cartes et de karts. Plus une campagne solo !
 
 ![SuperTuxKart capture](https://framalibre.org/sites/default/files/800px-Supertuxkart-0.9.2-screenshot-5.jpg)
 
@@ -66,9 +70,14 @@ Jeu de course avec des Kart et des personnages venant de logiciels libres.
 
 ## Minetest
 
-Minetest est un jeu inspiré de Minecraft et InfiniMiner.
+Jeu de type «bac à sable» où vous réaménagez un terrain constitué de blocs cubiques aux graphismes pixel-art.
 
-Il s'agit de jeux de type «bac à sable» où vous réaménagez un terrain constitué de blocs cubiques aux graphismes pixel-art.
+Minetest c'est l'équivalent de son petit frère Minecraft avec en supplément la gratuité du jeu et la possibilité d'intégrer une équipe de développement pour améliorer le produit.
+
+Minetest, c'est aussi un serveur qui permet d'accueillir vos amis ou simplement quelques visiteurs curieux voire même des joueurs chevronnés.
+
+L'installation est simple et le jeu est entièrement traduit en français.
+
 
 * type: jeu de bac à sable
 * site: https://www.minetest.net/
