@@ -6,14 +6,6 @@ geometry: margin=1.25in
 urlcolor: blue
 ...
 
-# 0 A.D.
-
-![](./snapshot/0_ad.jpg){width="180"}
-
-Jeu vidéo de stratégie en temps réel développé et édité par Wildfire Games pour Windows, GNU/Linux et Mac OS.
-
-[play0ad.com](https://play0ad.com/)
-
 # Teeworlds
 
 ![](./snapshot/teeworlds_jungle.jpg){width="180"}
@@ -23,6 +15,50 @@ Jeu multijoueur d'action/arcade en 2D cartoonesque assez rapide, très simple à
 Vous incarnez une petite créature ronde, le tee, qui utilise un grappin pour se déplacer. À l'aide de différentes armes, en équipe ou seul, pour voler le drapeau à ses adversaires, ou tous les tuer, selon le mode de jeu.
 
 [teeworlds.com](https://teeworlds.com/)
+
+# SuperTuxKart
+
+![](./snapshot/supertuxkart.jpg){width="180"}
+
+Jeu de course avec une variétés de modes, de cartes et de karts. Plus une campagne solo !
+
+[supertuxkart.net](https://supertuxkart.net/)
+
+# 0 A.D.
+
+![](./snapshot/0_ad.jpg){width="180"}
+
+Jeu vidéo de stratégie en temps réel développé et édité par Wildfire Games pour Windows, GNU/Linux et Mac OS.
+
+[play0ad.com](https://play0ad.com/)
+
+# Battle for wesnoth
+
+![](./snapshot/battleforwesnoth.jpg){width="180"}
+
+Jeu vidéo de stratégie au tour par tour dans un univers médiéval fantastique.
+
+En mode solo plusieurs campagnes racontent l'histoire du royaume de Wesnoth. Un grand nombre de campagnes sont mises librement à disposition pour la communauté. Le jeu a aussi un mode multijoueur via internet ou en local.
+
+[wesnoth.org](https://www.wesnoth.org/)
+
+# Minetest
+
+![](./snapshot/minetest.jpg){width="180"}
+
+Jeu de type «bac à sable» où vous réaménagez un terrain constitué de blocs cubiques aux graphismes pixel-art. L'installation est simple et le jeu est entièrement traduit en français.
+
+C'est aussi un serveur qui permet d'accueillir vos amis ou simplement quelques visiteurs curieux voire même des joueurs chevronnés.
+
+[minetest.net](https://www.minetest.net/)
+
+# Frets on Fire
+
+![](./snapshot/fretsonfire.png){width="180"}
+
+Jeu de simulation de guitare pour améliorer sa dextérité au clavier tout en s'amusant.
+
+[fretsonfire.sourceforge.net](http://fretsonfire.sourceforge.net/)
 
 # Hedgewars
 
@@ -39,42 +75,6 @@ Clone de Worms, jeu de stratégie au tour par tour dans lequel plusieurs équipe
 Jeu FPS offrant un système de parcours innovant et au rythme haletant !
 
 [redeclipse.net](https://redeclipse.net/)
-
-# Battle for wesnoth
-
-![](./snapshot/battleforwesnoth.jpg){width="180"}
-
-Jeu vidéo de stratégie au tour par tour dans un univers médiéval fantastique.
-
-En mode solo plusieurs campagnes racontent l'histoire du royaume de Wesnoth. Un grand nombre de campagnes sont mises librement à disposition pour la communauté. Le jeu a aussi un mode multijoueur via internet ou en local.
-
-[wesnoth.org](https://www.wesnoth.org/)
-
-# SuperTuxKart
-
-![](./snapshot/supertuxkart.jpg){width="180"}
-
-Jeu de course avec une variétés de modes, de cartes et de karts. Plus une campagne solo !
-
-[supertuxkart.net](https://supertuxkart.net/)
-
-# Frets on Fire
-
-![](./snapshot/fretsonfire.png){width="180"}
-
-Jeu de simulation de guitare pour améliorer sa dextérité au clavier tout en s'amusant.
-
-[fretsonfire.sourceforge.net](http://fretsonfire.sourceforge.net/)
-
-# Minetest
-
-![](./snapshot/minetest.jpg){width="180"}
-
-Jeu de type «bac à sable» où vous réaménagez un terrain constitué de blocs cubiques aux graphismes pixel-art. L'installation est simple et le jeu est entièrement traduit en français.
-
-C'est aussi un serveur qui permet d'accueillir vos amis ou simplement quelques visiteurs curieux voire même des joueurs chevronnés.
-
-[minetest.net](https://www.minetest.net/)
 
 # Khaganat / Khanat
 
