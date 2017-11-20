@@ -8,7 +8,7 @@ Sur ubuntu / debian :
       wesnoth teeworlds teeworlds-server \
       hedgewars 0ad supertuxkart \
       minetest gcompris fretsonfire \
-      openarena openarena-server
+      openarena openarena-server armagetronad
 
 Texte du dépliant pour les visiteurs dans [jeux.md](jeux.md)
 
