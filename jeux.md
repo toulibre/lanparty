@@ -92,6 +92,14 @@ Logiciel éducatif qui propose des activités variées aux enfants de 2 à 10 an
 
 [gcompris.net](http://gcompris.net/)
 
+# Kobo Deluxe
+
+![](./snapshot/kobodeluxe.png){width="180"}
+
+Jeu *shoot 'em up* spatial dont l'objectif est de détruire les plateformes ennemies.
+
+[KoboDeluxe](http://olofson.net/kobodl/)
+
 # Crédits et ressources
 
 Source des notices :
