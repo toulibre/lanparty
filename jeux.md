@@ -68,13 +68,13 @@ Clone de Worms, jeu de stratégie au tour par tour dans lequel plusieurs équipe
 
 [hedgewars.org](http://www.hedgewars.org/)
 
-# Red eclipse
+# OpenArena
 
-![](./snapshot/redeclipse.jpg){width="180"}
+![](./snapshot/openarena.jpg){width="180"}
 
 Jeu FPS offrant un système de parcours innovant et au rythme haletant !
 
-[redeclipse.net](https://redeclipse.net/)
+[openarena.ws](http://openarena.ws)
 
 # Khaganat / Khanat
 
